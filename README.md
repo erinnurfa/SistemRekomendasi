@@ -234,4 +234,5 @@ Dapat diperhatikan pada hasil proses training model di atas cukup smooth dan mod
 
 ### Referensi
 [1] Handrico. A, “SISTEM REKOMENDASI BUKU PERPUSTAKAAN FAKULTAS SAINS DAN TEKNOLOGI DENGAN METODE COLLABORATIVE FILTERING - Universitas Islam Negeri Sultan Syarif Kasim Riau Repository,” Uin-suska.ac.id, Jan. 2012, doi: http://repository.uin-suska.ac.id/1094/1/2013_201302.pdf.
+
 [2] Khoiri, “Pengertian dan Cara Menghitung Root Mean Square Error (RMSE),” Khoiri.com, Dec. 23, 2020. https://www.khoiri.com/2020/12/cara-menghitung-root-mean-square-error-rmse.html
